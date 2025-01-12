@@ -184,6 +184,10 @@ width: 254px;
     height: 256px;
     margin-top: 30px;
     border-radius: 16px;
+
+    background-image: url("quote-bg.png");
+    background-repeat: no-repeat;
+    background-position: 30px 20px;
     
 }
 .testimonial{
